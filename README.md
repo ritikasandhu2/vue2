@@ -1,1 +1,1 @@
-# vue2
+# vue2 used by vuetify
